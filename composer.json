@@ -1,0 +1,9 @@
+{
+    "name": "rdewilde/xhp-base",
+    "description": "Base elements for XHP",
+    
+    "require": {
+        "hhvm": "*"
+    },
+    "classmap": ["xhp/"]
+}
