@@ -3,7 +3,7 @@
     "description": "Base elements for XHP",
     
     "require": {
-        "hhvm": "*"
+        "hhvm/xhp": "*"
     },
     "classmap": ["xhp/"]
 }
