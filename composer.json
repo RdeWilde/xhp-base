@@ -5,5 +5,7 @@
     "require": {
         "hhvm/xhp": "*"
     },
-    "classmap": ["xhp/"]
+    "autoload" : {
+        "classmap": ["xhp/"]
+    }
 }
