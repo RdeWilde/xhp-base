@@ -3,7 +3,7 @@
     "description": "Base elements for XHP",
     
     "require": {
-        "facebook/xhp": "dev-master"
+        "facebook/xhp-lib": "dev-master"
     },
     "autoload" : {
         "classmap": ["xhp/"]
